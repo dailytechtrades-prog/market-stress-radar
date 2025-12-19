@@ -1,0 +1,13 @@
+# User config (contains secrets)
+config.py
+
+# Runtime output
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
