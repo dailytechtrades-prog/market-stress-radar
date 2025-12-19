@@ -1,3 +1,13 @@
+## ☕ Support the project
+
+Market Stress Radar is free and open-source.
+
+If you find it useful and want to support ongoing development:
+- ☕ Ko-fi: https://ko-fi.com/dailytechtrades
+- ❤️ GitHub Sponsors (coming soon)
+
+Donations are optional and do not unlock paid features.
+
 # Market Stress Radar — User Guide
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOURNAME)
 
